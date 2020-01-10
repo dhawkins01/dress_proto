@@ -10,3 +10,35 @@ body {
     font-family: 'Dancing Script', cursive;
 
 }
+
+#jumboMain {
+    font-family: 'Dancing Script', cursive;
+    background-color: black;
+    margin: 100px auto;
+    color: white;
+    opacity: 0.8;
+    width: 50%;
+    float: left;
+}
+#jumboDress {
+    font-family: 'Dancing Script', cursive;
+    background-color: black;
+    margin: 100px auto;
+    color: white;
+    /* opacity: 0.8; */
+    width: 100%;
+    float: left;
+}
+
+#jumboDress h1 {
+    padding-bottom: 20px;
+    border-bottom: 3px solid white;
+}
+.lead {
+    line-height: 1.5em;
+}
+
+.card {
+    margin-bottom: 20px;
+    color: black;
+}
